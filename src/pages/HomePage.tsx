@@ -94,6 +94,7 @@ const HomePage = () => {
               variant="outline" 
               size="lg" 
               className="px-8 py-4 text-lg"
+              onClick={() => window.open('https://youtu.be/-y4WPP7FNCw', '_blank')}
             >
               Watch Demo
             </Button>
