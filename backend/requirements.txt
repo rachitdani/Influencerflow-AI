@@ -12,4 +12,3 @@ python-dateutil
 supabase
 python-dotenv
 reportlab
-fdpf2
