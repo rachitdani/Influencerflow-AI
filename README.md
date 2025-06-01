@@ -1,9 +1,8 @@
 
 # InfluencerFlow AI
 
-FastAPI backend for the InfluencerFlow AI influencer marketing platform.
 
-Website snapshot:
+🚀 **[Visit the Live Website →](https://influencerflow-ai.netlify.app/)**  
 
 
 <img src="images/1.png" width="300"/>
