@@ -12,7 +12,6 @@ import os
 import requests
 import json
 from fastapi.staticfiles import StaticFiles
-from fpdf import FPDF
 from fastapi.responses import FileResponse, JSONResponse
 load_dotenv()
 
