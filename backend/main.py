@@ -29,7 +29,9 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 origins = [
     "http://localhost:8080",  # your React app origin
     "http://127.0.0.1:8080",  # optional, depending on how you run React
-    "http://0.0.0.0:8000"
+    "http://0.0.0.0:8000",
+    "http://192.168.29.44:8080",
+    "https://influencerflow-ai.netlify.app"
 ]
 
 
